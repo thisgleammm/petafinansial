@@ -1,3 +1,5 @@
+"use client";
+
 import Image from "next/image";
 import Link from "next/link";
 
@@ -18,6 +20,12 @@ export default function ArticleCard({ article, isFeatured = false }) {
           alt={article.title}
           fill
           className="object-cover"
+          sizes={
+            isFeatured
+              ? "100vw"
+              : "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          }
+          priority={isFeatured}
         />
       </div>
       <div className={contentPadding}>

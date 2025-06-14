@@ -4,6 +4,10 @@ import { generateArticleMetadata } from "../../../components/ArticleMetadata";
 import { NextSeo } from "next-seo";
 import ArticleSEO from "../../../components/ArticleSEO";
 
+function capitalize(str) {
+  return str.charAt(0).toUpperCase() + str.slice(1);
+}
+
 // Mock data for all articles
 const allArticles = [
   // Budgeting Articles
@@ -351,7 +355,7 @@ const allArticles = [
 
 export async function generateMetadata({ params }) {
   const { id } = params;
-  const article = articles.find((a) => a.id === id);
+  const article = allArticles.find((a) => a.id === id);
   if (!article) {
     return {
       title: "Artikel Tidak Ditemukan",
@@ -382,7 +386,7 @@ export async function generateMetadata({ params }) {
 
 export default async function ArticlePage({ params }) {
   const { id } = params;
-  const article = articles.find((article) => article.id === id);
+  const article = allArticles.find((article) => article.id === id);
 
   if (!article) {
     return (

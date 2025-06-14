@@ -34,6 +34,21 @@ const budgetingArticles = [
   },
 ];
 
+export const metadata = {
+  title: "Budgeting | Peta Finansial",
+  description:
+    "Tips dan panduan lengkap tentang cara membuat dan mengelola anggaran keuangan yang efektif.",
+  openGraph: {
+    title: "Budgeting | Peta Finansial",
+    description:
+      "Tips dan panduan lengkap tentang cara membuat dan mengelola anggaran keuangan yang efektif.",
+    url: "https://gleam.web.id/budgeting",
+    siteName: "Peta Finansial",
+    locale: "id_ID",
+    type: "website",
+  },
+};
+
 export default function BudgetingPage() {
   return (
     <div className="min-h-screen bg-gray-50">
