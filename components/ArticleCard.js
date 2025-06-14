@@ -26,13 +26,16 @@ export default function ArticleCard({ article, isFeatured = false }) {
               : "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
           }
           priority={isFeatured}
+          loading={isFeatured ? "eager" : "lazy"}
+          fetchPriority={isFeatured ? "high" : "auto"}
+          decoding="async"
         />
       </div>
       <div className={contentPadding}>
         <span className="inline-block bg-blue-100 text-blue-800 text-sm font-semibold px-3 py-1 rounded-full mb-2">
           {article.category}
         </span>
-        <Link href={`/article/${article.id}`}>
+        <Link href={`/article/${article.id}`} prefetch={false}>
           <h3
             className={`font-bold text-gray-900 mb-2 ${titleSize} hover:text-blue-600 transition-colors`}
           >

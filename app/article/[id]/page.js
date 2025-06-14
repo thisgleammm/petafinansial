@@ -418,13 +418,31 @@ export default async function ArticlePage({ params }) {
             "@type": "Article",
             headline: article.title,
             image: [article.image],
-            author: { "@type": "Organization", name: "Peta Finansial" },
-            publisher: { "@type": "Organization", name: "Peta Finansial" },
             datePublished: article.date,
+            dateModified: article.date,
+            author: {
+              "@type": "Organization",
+              name: "Peta Finansial",
+              url: "https://gleam.web.id",
+            },
+            publisher: {
+              "@type": "Organization",
+              name: "Peta Finansial",
+              logo: {
+                "@type": "ImageObject",
+                url: "https://gleam.web.id/og-image.jpg",
+              },
+            },
             description: article.excerpt,
+            articleBody: article.content.replace(/<[^>]*>/g, ""), // Strip HTML tags
+            keywords: `finansial, keuangan, ${article.category}, edukasi finansial, tips keuangan`,
             mainEntityOfPage: {
               "@type": "WebPage",
               "@id": `https://gleam.web.id/article/${article.id}`,
+            },
+            about: {
+              "@type": "Thing",
+              name: article.category,
             },
           }),
         }}

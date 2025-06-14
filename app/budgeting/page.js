@@ -1,4 +1,5 @@
 import ArticleCard from "../../components/ArticleCard";
+import Script from "next/script";
 
 // Mock data for budgeting articles
 const budgetingArticles = [
@@ -52,6 +53,45 @@ export const metadata = {
 export default function BudgetingPage() {
   return (
     <div className="min-h-screen bg-gray-50">
+      <Script
+        id="budgeting-structured-data"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "CollectionPage",
+            name: "Budgeting",
+            description:
+              "Tips dan panduan lengkap tentang cara membuat dan mengelola anggaran keuangan yang efektif.",
+            url: "https://gleam.web.id/budgeting",
+            hasPart: budgetingArticles.map((article) => ({
+              "@type": "Article",
+              headline: article.title,
+              description: article.excerpt,
+              image: article.image,
+              datePublished: article.date,
+              url: `https://gleam.web.id/article/${article.id}`,
+            })),
+            breadcrumb: {
+              "@type": "BreadcrumbList",
+              itemListElement: [
+                {
+                  "@type": "ListItem",
+                  position: 1,
+                  name: "Beranda",
+                  item: "https://gleam.web.id",
+                },
+                {
+                  "@type": "ListItem",
+                  position: 2,
+                  name: "Budgeting",
+                  item: "https://gleam.web.id/budgeting",
+                },
+              ],
+            },
+          }),
+        }}
+      />
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <h1 className="text-3xl font-bold text-gray-900 mb-8">Budgeting</h1>
 
