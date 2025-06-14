@@ -48,7 +48,7 @@ export const metadata = {
     canonical: "/",
   },
   other: {
-    "google-site-verification": "your-verification-code",
+    "google-site-verification": "2QT9y5x0MAQqQhBlipDRgH6O26mrI-uQu-FNjkQ8ytI", // Ganti dengan kode verifikasi dari Google Search Console
   },
   icons: {
     icon: "/favicon.ico",

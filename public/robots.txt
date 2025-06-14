@@ -10,6 +10,14 @@ Disallow: /api/
 Disallow: /admin/
 Disallow: /private/
 
+# Allow important paths
+Allow: /article/
+Allow: /budgeting/
+Allow: /saving/
+Allow: /mindset/
+Allow: /lifestyle-money/
+Allow: /financial-basics/
+
 # Crawl-delay for all bots
 Crawl-delay: 10
 

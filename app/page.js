@@ -2,6 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { articles, categories } from "./data/mockData";
 import ArticleCard from "../components/ArticleCard";
+import Script from "next/script";
 
 export default function Home() {
   const featuredArticle = articles[0];
@@ -9,6 +10,41 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-gray-50">
+      <Script
+        id="homepage-structured-data"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            name: "Peta Finansial",
+            url: "https://gleam.web.id",
+            description:
+              "Portal edukasi finansial untuk generasi muda Indonesia",
+            publisher: {
+              "@type": "Organization",
+              name: "Peta Finansial",
+              logo: {
+                "@type": "ImageObject",
+                url: "https://gleam.web.id/og-image.jpg",
+              },
+            },
+            mainEntity: {
+              "@type": "ItemList",
+              itemListElement: categories.map((category, index) => ({
+                "@type": "ListItem",
+                position: index + 1,
+                item: {
+                  "@type": "Thing",
+                  name: category.name,
+                  description: category.description,
+                  url: `https://gleam.web.id/${category.id}`,
+                },
+              })),
+            },
+          }),
+        }}
+      />
       {/* Hero Section */}
       <section className="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
