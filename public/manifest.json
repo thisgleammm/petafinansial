@@ -1,0 +1,21 @@
+{
+  "name": "Peta Finansial",
+  "short_name": "Peta Finansial",
+  "description": "Peta Finansial adalah kompas andalmu dalam menjelajahi dunia keuangan. Temukan panduan terlengkap dan terpercaya tentang investasi, menabung, mengelola utang, hingga tips keuangan pribadi agar kamu bisa mencapai kebebasan finansial di Indonesia.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

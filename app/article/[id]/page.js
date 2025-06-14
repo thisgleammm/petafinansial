@@ -1,6 +1,8 @@
 import Image from "next/image";
 import Link from "next/link";
 import { generateArticleMetadata } from "../../../components/ArticleMetadata";
+import { NextSeo } from "next-seo";
+import ArticleSEO from "../../../components/ArticleSEO";
 
 // Mock data for all articles
 const allArticles = [
@@ -181,7 +183,7 @@ const allArticles = [
             <p>Alih-alih hanya menyimpan uang di rekening digital, Gen Z bisa mencoba metode <strong><em>cash stuffing</em></strong>. Uang dibagi dalam amplop atau binder estetik dengan label seperti: hiburan, tabungan, skincare, dan darurat. Ini membuat proses menabung lebih visual dan memuaskan secara estetika, sekaligus membantu melacak pengeluaran tunai.</p><br>
         </li>
         <li>
-            <b><h3>• Terapkan “No Spend Challenge” Mingguan</h3></b>
+            <b><h3>• Terapkan "No Spend Challenge" Mingguan</h3></b>
             <p>Tantang diri untuk tidak mengeluarkan uang selama periode tertentu—misalnya 2 hari dalam seminggu atau bahkan satu akhir pekan penuh. Catat penghematanmu dan segera pindahkan ke tabungan. Kamu bisa bagikan tantangan ini ke media sosial untuk dapat dukungan dari teman-teman, menjadikan <strong>menabung</strong> sebagai aktivitas sosial yang seru.</p><br>
         </li>
         <li>
@@ -348,24 +350,44 @@ const allArticles = [
 ];
 
 export async function generateMetadata({ params }) {
-  const { id } = await params;
-  const article = allArticles.find((article) => article.id === id);
+  const { id } = params;
+  const article = articles.find((a) => a.id === id);
   if (!article) {
     return {
       title: "Artikel Tidak Ditemukan",
       description: "Maaf, artikel yang Anda cari tidak dapat ditemukan.",
     };
   }
-  return generateArticleMetadata(article);
+  return {
+    title: article.title,
+    description: article.excerpt,
+    openGraph: {
+      title: article.title,
+      description: article.excerpt,
+      images: [article.image],
+      url: `https://gleam.web.id/article/${article.id}`,
+      type: "article",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: article.title,
+      description: article.excerpt,
+      images: [article.image],
+    },
+    alternates: {
+      canonical: `https://gleam.web.id/article/${article.id}`,
+    },
+  };
 }
 
 export default async function ArticlePage({ params }) {
-  const { id } = await params;
-  const article = allArticles.find((article) => article.id === id);
+  const { id } = params;
+  const article = articles.find((article) => article.id === id);
 
   if (!article) {
     return (
       <div className="min-h-screen bg-gray-50">
+        <ArticleSEO isNotFound={true} />
         <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           <h1 className="text-3xl font-bold text-gray-900 mb-4">
             Artikel Tidak Ditemukan
@@ -381,42 +403,27 @@ export default async function ArticlePage({ params }) {
     );
   }
 
-  // Structured data for the article
-  const structuredData = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    headline: article.title,
-    image: article.image,
-    author: {
-      "@type": "Organization",
-      name: "Peta Finansial",
-    },
-    publisher: {
-      "@type": "Organization",
-      name: "Peta Finansial",
-      logo: {
-        "@type": "ImageObject",
-        url: "http://gleam.web.id/logo.png",
-        width: 1200,
-        height: 630,
-        alt: "Peta Finansial Logo",
-      },
-    },
-    datePublished: article.date,
-    description: article.excerpt,
-    mainEntityOfPage: {
-      "@type": "WebPage",
-      "@id": `http://gleam.web.id/article/${article.id}`,
-    },
-  };
-
-  const capitalize = (str) => str.charAt(0).toUpperCase() + str.slice(1);
-
   return (
     <>
+      <ArticleSEO article={article} isNotFound={false} />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Article",
+            headline: article.title,
+            image: [article.image],
+            author: { "@type": "Organization", name: "Peta Finansial" },
+            publisher: { "@type": "Organization", name: "Peta Finansial" },
+            datePublished: article.date,
+            description: article.excerpt,
+            mainEntityOfPage: {
+              "@type": "WebPage",
+              "@id": `https://gleam.web.id/article/${article.id}`,
+            },
+          }),
+        }}
       />
       <div className="min-h-screen bg-gray-50">
         <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
