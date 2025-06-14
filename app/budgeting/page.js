@@ -1,4 +1,4 @@
-import ArticleCard from "../components/ArticleCard";
+import ArticleCard from "../../components/ArticleCard";
 
 // Mock data for budgeting articles
 const budgetingArticles = [

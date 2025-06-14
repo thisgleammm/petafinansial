@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { articles, categories } from "./data/mockData";
-import ArticleCard from "./components/ArticleCard";
+import ArticleCard from "../components/ArticleCard";
 
 export default function Home() {
   const featuredArticle = articles[0];

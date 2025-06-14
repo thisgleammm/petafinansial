@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { generateArticleMetadata } from "../../components/ArticleMetadata";
+import { generateArticleMetadata } from "../../../components/ArticleMetadata";
 
 // Mock data for all articles
 const allArticles = [
