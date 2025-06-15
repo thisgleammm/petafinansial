@@ -12,54 +12,155 @@ function capitalize(str) {
 const allArticles = [
   // Budgeting Articles
   {
-    id: "cara-membuat-anggaran-bulanan-yang-efektif",
-    title: "Cara Membuat Anggaran Bulanan yang Efektif",
+    id: "cara-membuat-anggaran-bulanan-yang-efektif-di-tengah-krisis-ekonomi-pentingnya-budgeting",
+    title:
+      "Cara Membuat Anggaran Bulanan yang Efektif di Tengah Krisis Ekonomi: Pentingnya Budgeting",
     category: "Budgeting",
     image:
-      "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-    date: "15 Maret 2024",
+      "https://plus.unsplash.com/premium_photo-1725404428224-664f5f0217b3?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    date: "15 Juni 2025",
     excerpt:
-      "Pelajari langkah-langkah praktis untuk membuat anggaran bulanan yang efektif dan sesuai dengan kebutuhan Anda.",
+      "Pendahuluan tentang situasi ekonomi global saat ini dan dampaknya pada keuangan pribadi",
     content: `
-      <p>Membuat anggaran bulanan yang efektif adalah langkah penting dalam mengelola keuangan pribadi. Artikel ini akan membahas langkah-langkah praktis untuk membuat anggaran yang sesuai dengan kebutuhan Anda.</p><br>
+      <b><h1>Tantangan Perekonomian 2025 dan Strategi Pengelolaan Keuangan Pribadi</h1></b><br>
 
-      <b><h2>Langkah 1: Catat Semua Pemasukan</h2></b>
-      <p>Pertama, catat semua sumber pemasukan Anda, termasuk:</p>
-      <ul>
-        <li>• Gaji tetap</li>
-        <li>• Pendapatan tambahan</li>
-        <li>• Pendapatan pasif</li>
-      </ul><br>
+    <p>Tantangan perekonomian nasional 2025 dihantui oleh kenaikan inflasi yang dipicu sejumlah faktor, salah satunya kenaikan tarif Pajak Pertambahan Nilai (PPN) menjadi 12 persen dan masih berlanjutnya ketegangan geopolitik global. Berdasarkan Badan Pusat Statistik (<a href="https://www.bps.go.id/" target="_blank" rel="nofollow noopener">BPS</a>), tingkat inflasi Indonesia mencapai 1,8 persen <b>year on year</b> (yoy) pada September 2024. Meskipun terkendali, BPS menyebut bahwa persentase tersebut masih berisiko meningkat akibat ketidakpastian global, lonjakan harga energi, dan penurunan daya beli masyarakat.</p><br>
 
-      <b><h2>Langkah 2: Identifikasi Pengeluaran Tetap</h2></b>
-      <p>Pengeluaran tetap adalah biaya yang harus Anda bayar setiap bulan, seperti:</p>
-      <ul>
-        <li>• KPR atau sewa rumah</li>
-        <li>• Tagihan listrik dan air</li>
-        <li>• Asuransi</li>
-        <li>• Angsuran kendaraan</li>
-      </ul><br>
+    <p>Selain itu, fluktuasi tingkat suku bunga yang tidak stabil dapat memengaruhi biaya pinjaman, seperti cicilan rumah, kendaraan, hingga kredit usaha, yang berpotensi menambah tekanan finansial. Bank Indonesia (<a href="https://www.bi.go.id/" target="_blank" rel="nofollow noopener">BI</a>) memproyeksikan suku bunga acuan tetap tinggi di kisaran 5,7 persen-6 persen pada 2025 untuk menjaga stabilitas ekonomi di tengah ketidakpastian global.</p><br>
 
-      <b><h2>Langkah 3: Alokasikan Dana untuk Tabungan</h2></b>
-      <p>Sebelum mengalokasikan dana untuk pengeluaran variabel, pastikan Anda menyisihkan sebagian pendapatan untuk:</p>
-      <ul>
-        <li>• Tabungan darurat</li>
-        <li>• Investasi jangka panjang</li>
-        <li>• Dana pensiun</li>
-      </ul><br>
+    <p>Ketidakpastian pendapatan dan stabilitas kerja juga menjadi isu penting, terutama dengan perkembangan teknologi dan otomatisasi yang dapat mengubah sejumlah sektor pekerjaan secara signifikan. Lembaga survei McKinsey pun memperkirakan sekitar 23 juta pekerjaan akan terdampak otomatisasi dalam 10 tahun ke depan. Dampak yang lebih terasa akan terjadi pada sektor manufaktur dan jasa.</p><br>
 
-      <b><h2>Langkah 4: Atur Pengeluaran Variabel</h2></b>
-      <p>Setelah mengalokasikan dana untuk pengeluaran tetap dan tabungan, atur pengeluaran variabel seperti:</p>
-      <ul>
-        <li>• Belanja bulanan</li>
-        <li>• Hiburan</li>
-        <li>• Makan di luar</li>
-      </ul><br>
+    <img src="https://www.pajak.com/storage/2024/12/202412162130-main.cropped_1734359434-758x505.jpg" alt="Ilustrasi grafik ekonomi menurun dengan simbol tantangan finansial" width="800" height="450"><br>
 
-      <b><h2>Kesimpulan</h2></b>
-      <p>Dengan mengikuti langkah-langkah di atas, Anda dapat membuat anggaran bulanan yang efektif dan sesuai dengan kebutuhan Anda. Ingat untuk selalu mengevaluasi dan menyesuaikan anggaran Anda secara berkala.</p>
+    <b><h2>Strategi Pengelolaan Keuangan Pribadi 2025</h2></b><br>
+    <p>Dengan berbagai tantangan tersebut, berikut strategi yang dapat dilakukan untuk mengelola <strong>keuangan pribadi</strong> Anda agar tetap tangguh:</p><br>
+    <ol>
+        <li>
+            <h3>1. Mengelola Arus Kas Secara Efektif</h3>
+            <p>Penting untuk memprioritaskan pengeluaran, mengurangi pemborosan, dan menyisihkan <a href="https://gleam.web.id/pentingnya-dana-darurat/" title="Pentingnya Dana Darurat">dana darurat</a> yang mencukupi kebutuhan minimal selama 3 hingga 6 bulan. Buatlah anggaran bulanan yang detail dan patuhi agar Anda tahu ke mana saja uang Anda mengalir. Anda bisa menggunakan <a href="https://gleam.web.id/atur-keuangan-metode-50-30-20/" title="Metode 50/30/20">metode 50/30/20</a> sebagai panduan.</p><br>
+        </li>
+        <li>
+            <h3>2. Diversifikasi Investasi</h3>
+            <p>Hindari menempatkan semua dana di satu jenis investasi. Kombinasikan aset berisiko rendah, seperti deposito atau <a href="https://gleam.web.id/investasi-reksadana-mahasiswa-100-ribu/" title="Investasi Reksadana untuk Mahasiswa">reksa dana pasar uang</a>, dengan investasi berisiko lebih tinggi namun berpotensi hasil besar, seperti saham atau reksa dana saham. Diversifikasi membantu mengurangi risiko secara keseluruhan.</p><br>
+        </li>
+        <li>
+            <h3>3. Melindungi Aset dengan Asuransi</h3>
+            <p>Pastikan aset-aset penting, seperti kesehatan, properti, dan kendaraan terlindungi oleh asuransi yang memadai. Upaya ini dapat membantu mengurangi beban keuangan yang tidak terduga akibat kejadian yang tidak diinginkan seperti sakit, kecelakaan, atau kerusakan properti.</p><br>
+        </li>
+    </ol>
+
+    <b><h2>Kesimpulan</h2></b><br>
+    <p>Tahun 2025 mungkin membawa tantangan, tetapi <strong>perencanaan keuangan yang matang</strong> dan fleksibilitas dalam menghadapi perubahan adalah kunci untuk tetap stabil dan tangguh secara finansial. Keuangan yang sehat bukan hanya soal menabung, tetapi juga bagaimana mengelola risiko, merencanakan masa depan, dan membuat keputusan investasi yang bijaksana.</p><br>
+
+    <p>Dengan strategi yang tepat, Anda bisa menghadapi ketidakpastian ekonomi dengan lebih percaya diri. Kunjungi <a href="https://gleam.web.id/" title="Peta Finansial: Kompas Keuangan Pribadi Anda">Peta Finansial</a> untuk tips dan panduan keuangan lainnya.</p><br>
     `,
   },
+  {
+    id: "50-30-20-metode-budgeting-untuk-pengelolaan-keuangan",
+    title: "50/30/20: Metode Budgeting untuk Pengelolaan Keuangan",
+    category: "Budgeting",
+    image:
+      "https://images.unsplash.com/photo-1622186477895-f2af6a0f5a97?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    date: "15 Juni 2025",
+    excerpt: "Bagaimana teknologi telah mengubah cara kita mengelola keuangan",
+    content: `
+    <h1>Metode Budgeting 50/30/20: Atur Keuangan Efektif dan Fleksibel</h1><br>
+
+    Metode <strong>budgeting 50/30/20</strong> adalah pendekatan pengalokasian dana yang pertama kali dikenalkan oleh seorang senator dari Amerika Serikat bernama Elizabeth Warren bersama putrinya, Amelia Warren Tyagi.<br>
+    Metode ini dijelaskan dalam buku mereka yang berjudul "All Your Worth: The Ultimate Lifetime Money Plan".<br>
+    Metode ini membagi penghasilan bulanan Anda menjadi tiga kategori utama yaitu kebutuhan (<em>needs</em>), keinginan (<em>wants</em>), dan tabungan/investasi (<em>savings/investments</em>).<br><br>
+    Strategi ini dirancang untuk mempermudah siapa saja dalam mengelola keuangan pribadi, memastikan semua aspek finansial tercakup tanpa rasa terlalu terkekang.<br>
+    Mari kita bedah lebih lanjut metode populer ini.<br><br>
+
+    <h2>Apa Itu Metode Budgeting 50/30/20?</h2><br>
+    Metode 50/30/20 adalah kerangka sederhana namun kuat untuk mengelola pendapatan Anda.<br>
+    Pembagiannya adalah sebagai berikut:<br><br>
+    <ul>
+        <li><strong>50% untuk Kebutuhan Pokok:</strong> Ini mencakup semua pengeluaran esensial yang wajib Anda penuhi setiap bulan agar bisa hidup.<br>Contohnya adalah biaya sewa/cicilan tempat tinggal, makanan sehari-hari, transportasi, tagihan listrik, air, internet, serta pembayaran utang minimum (jika ada).<br><br></li>
+        <li><strong>30% untuk Keinginan:</strong> Kategori ini diperuntukkan bagi hal-hal yang sifatnya tidak wajib namun meningkatkan kualitas hidup atau kebahagiaan Anda.<br>Contohnya termasuk langganan hiburan (Netflix, Spotify), makan di luar, belanja pakaian non-esensial, liburan, hobi, atau nongkrong di kafe.<br><br></li>
+        <li><strong>20% untuk Tabungan dan Investasi:</strong> Porsi ini adalah kunci untuk masa depan finansial Anda.<br>Alokasikan dana ini untuk membangun <a href="https://gleam.web.id/pentingnya-dana-darurat/" title="Pentingnya Dana Darurat">dana darurat</a>, menabung untuk tujuan jangka panjang (misalnya uang muka rumah, pendidikan), atau diinvestasikan agar uang Anda bisa bertumbuh lebih cepat melalui instrumen seperti <a href="https://gleam.web.id/investasi-reksadana-mahasiswa-100-ribu/" title="Investasi Reksadana untuk Mahasiswa">reksa dana</a> atau saham.<br><br></li>
+    </ul>
+
+    <img src="https://blog-cdn.kitalulus.com/blog/wp-content/uploads/2024/07/15094447/apa-itu-budgeting-50-30-20-1024x683.webp" alt="Ilustrasi grafik pembagian keuangan dengan metode 50/30/20" width="800" height="450"><br><br>
+
+    <h2>Contoh Perhitungan Metode 50/30/20</h2><br>
+    Agar pemahamanmu tentang <strong>metode budgeting 50/30/20</strong> lebih matang, berikut contoh perhitungannya yang dapat diterapkan dalam kehidupan sehari-hari:<br><br>
+
+    Asumsi penghasilan bersih (setelah pajak) Karyawan X: <strong>Rp10.000.000</strong> per bulan.<br>
+    Jika dihitung menggunakan metode 50/30/20, maka alokasi gaji tersebut akan menjadi:<br><br>
+    <ul>
+        <li><strong>Kebutuhan (50%):</strong> Rp5.000.000 (maksimal untuk sewa rumah, makan, transportasi, dll.)<br></li>
+        <li><strong>Keinginan (30%):</strong> Rp3.000.000 (maksimal untuk belanja baju, hobi, atau nongkrong di kafe)<br></li>
+        <li><strong>Tabungan/Investasi (20%):</strong> Rp2.000.000 (untuk ditabung atau dijadikan modal investasi masa depan)<br></li>
+    </ul><br>
+    Jadi, setiap bulan Karyawan X mempunyai dana yang jelas untuk mencukupi kebutuhan pokok, menikmati hidup, dan juga membangun aset untuk masa depan.<br><br>
+
+    <h2>Manfaat Metode Budgeting 50/30/20</h2><br>
+    Ada beberapa manfaat utama yang menjadikan <strong>strategi keuangan 50/30/20</strong> sangat populer dan efektif:<br><br>
+    <ul>
+        <li>
+            <h3>1. Mudah Digunakan</h3><br>
+            Metode ini memungkinkan Anda dapat mengatur keuangan dengan cara yang sangat sederhana.<br>
+            Anda hanya perlu membagi penghasilan menjadi tiga kategori utama, tanpa perlu membuat anggaran yang rumit atau melacak setiap pengeluaran kecil.<br>
+            Hal tersebut membuat pengelolaan keuangan menjadi lebih mudah dan tidak memakan banyak waktu, cocok untuk Anda yang sibuk.<br><br>
+        </li>
+        <li>
+            <h3>2. Fleksibel</h3><br>
+            Manfaat lain dari metode ini yaitu memiliki fleksibilitas yang cukup tinggi.<br>
+            Pasalnya, siapapun dengan gaji berapapun dapat menerapkannya, serta pengeluaran di dalam masing-masing kategori dapat disesuaikan sendiri dengan kebutuhan dan preferensi pribadi Anda, selama masih dalam koridor persentase yang ditetapkan.<br><br>
+        </li>
+        <li>
+            <h3>3. Menyeimbangkan Keuangan</h3><br>
+            Metode 50/30/20 juga membantu Anda untuk mencapai keseimbangan dalam mengelola keuangan.<br>
+            Anda dapat menikmati hidup sekarang (melalui alokasi keinginan) tanpa mengabaikan persiapan untuk masa depan (melalui tabungan dan investasi).<br>
+            Ini adalah cara yang sangat efektif untuk menghindari pengeluaran berlebih sekaligus memastikan alokasi untuk tabungan dan investasi tetap berjalan.<br><br>
+        </li>
+    </ul>
+
+    <strong><h2>Kesimpulan</h2></strong><br>
+    <strong>Perencanaan keuangan</strong> yang matang dan fleksibilitas dalam menghadapi perubahan adalah kunci untuk tetap stabil dan tangguh di tengah berbagai tantangan ekonomi. Metode 50/30/20 menawarkan kerangka kerja yang solid untuk mencapai tujuan tersebut.<br><br>
+    Ingat, keuangan yang sehat bukan hanya soal menabung, tetapi juga bagaimana mengelola risiko, merencanakan masa depan, dan membuat keputusan investasi yang bijaksana.<br>
+    Mulai terapkan metode ini dan rasakan perbedaannya dalam pengelolaan keuangan pribadi Anda.<br>
+    `,
+  },
+  {
+    id: "budgeting-untuk-keluarga-muda-membangun-stabilitas-finansial-dari-awal",
+    title:
+      "Budgeting untuk Keluarga Muda: Membangun Stabilitas Finansial dari Awal",
+    category: "Budgeting",
+    image:
+      "https://plus.unsplash.com/premium_photo-1691872437533-e35b3d1f7cbe?q=80&w=2187&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    date: "15 Juni 2025",
+    excerpt: "Rencana Anggaran Bulanan Keluarga Muda",
+    content: `
+    <h1>Rencana Anggaran Bulanan Keluarga Muda</h1><br>
+
+    Sebuah <strong>rencana anggaran bulanan</strong> yang detail sangat penting untuk mengontrol pengeluaran dan mencapai tujuan keuangan.<br>
+    Rencana ini harus mencakup rincian pendapatan dan pengeluaran, dengan pembagian kategori yang jelas.<br>
+    Berikut contoh penganggaran untuk berbagai tingkat pendapatan:<br><br>
+
+    <ul>
+        <li><strong>Pendapatan Rp 5.000.000:</strong> Kebutuhan pokok (50%), tabungan (20%), cicilan (10%), hiburan (10%), dana darurat (10%).<br></li>
+        <li><strong>Pendapatan Rp 10.000.000:</strong> Kebutuhan pokok (40%), tabungan (25%), investasi (15%), cicilan (10%), hiburan (10%).<br></li>
+        <li><strong>Pendapatan Rp 15.000.000:</strong> Kebutuhan pokok (30%), tabungan (30%), investasi (20%), cicilan (5%), hiburan (10%), pengembangan diri (5%).<br></li>
+    </ul>
+    Persentase ini bersifat fleksibel dan dapat disesuaikan dengan kebutuhan dan prioritas masing-masing keluarga.<br><br>
+
+    <h2>Strategi Pengelolaan Utang yang Efektif</h2>
+    Sumber pendapatan tambahan dapat membantu meningkatkan stabilitas keuangan.<br>
+    Beberapa pilihan yang realistis meliputi investasi saham atau reksa dana, usaha sampingan berbasis keahlian atau hobi, atau pemanfaatan keterampilan tertentu untuk mendapatkan penghasilan tambahan (freelancing).<br><br>
+
+    <h2>Menyiapkan Dana Pendidikan, Darurat, Dan Investasi Keluarga</h2><br>
+    <strong>Dana darurat</strong> sangat penting untuk menghadapi situasi tak terduga seperti sakit, kecelakaan, atau kehilangan pekerjaan.<br>
+    Langkah-langkah praktis untuk membuatnya meliputi: menentukan jumlah dana darurat (idealnya 3-6 bulan pengeluaran), menabung secara konsisten, dan menyimpan dana darurat di rekening terpisah yang mudah diakses.<br><br>
+
+    <h2>Kesimpulan</h2><br>
+    <strong>Perencanaan keuangan</strong> yang matang dan fleksibilitas dalam menghadapi perubahan adalah kunci untuk tetap stabil dan tangguh.<br>
+    Keuangan yang sehat bukan hanya soal menabung, tetapi juga bagaimana mengelola risiko, merencanakan masa depan, dan membuat keputusan investasi yang bijaksana.<br><br>
+    Dengan menerapkan strategi ini, keluarga muda dapat membangun fondasi finansial yang kuat untuk masa kini dan masa depan.
+    `,
+  },
+
   // Saving Articles
   {
     id: "50-30-20-metode-menabung-yang-bikin-keuanganmu-terstruktur",
@@ -75,7 +176,7 @@ const allArticles = [
             <p>Di artikel ini, kami akan mengupas tuntas metode 50/30/20, mengapa efektif, dan bagaimana cara menerapkannya dalam kehidupan sehari-hari agar Anda bisa mencapai kebebasan finansial.</p><br>
 
             <b><h2>Apa Itu Metode 50/30/20?</h2></b>
-            adalah teknik manajemen keuangan yang membagi penghasilan bulanan bersih (setelah pajak) ke dalam tiga kategori utama:</p>
+            <p>Metode 50/30/20 adalah teknik manajemen keuangan yang membagi penghasilan bulanan bersih (setelah pajak) ke dalam tiga kategori utama:</p>
             <ul>
                 <li><strong>• 50% untuk Kebutuhan Pokok:</strong> Ini termasuk biaya makan, sewa rumah/kos, transportasi, tagihan listrik, air, internet, cicilan (rumah/kendaraan yang esensial), dan kebutuhan penting lainnya yang harus dipenuhi agar bisa hidup.</li>
                 <li><strong>• 30% untuk Keinginan:</strong> Digunakan untuk hal-hal yang sifatnya tidak wajib, namun meningkatkan kualitas hidup Anda. Contohnya seperti langganan Netflix, makan di luar, hobi, hiburan, belanja pakaian yang tidak mendesak, atau liburan.</li>
@@ -106,7 +207,7 @@ const allArticles = [
             <b><h2>Tips Agar Konsisten Menerapkan Metode 50/30/20</h2></b>
             <p>Konsistensi adalah kunci keberhasilan dalam <strong>mengatur keuangan pribadi</strong>. Berikut beberapa tips:</p>
             <ul>
-                <li><strong>• Gunakan Aplikasi Budgeting:</strong> Manfaatkan teknologi! Aplikasi seperti Money Lover, Spendee, DompetKu, atau Catatan Keuangan bisa membantu kamu mencatat setiap pengeluaran dan melihat alokasi dana secara *real-time*.</li>
+                <li><strong>• Gunakan Aplikasi Budgeting:</strong> Manfaatkan teknologi! Aplikasi seperti Money Lover, Spendee, DompetKu, atau Catatan Keuangan bisa membantu kamu mencatat setiap pengeluaran dan melihat alokasi dana secara <b>real-time</b>.</li>
                 <li><strong>• Buat Rekening Terpisah:</strong> Pisahkan rekening untuk kebutuhan, keinginan, dan yang paling penting, tabungan/investasi. Langsung transfer 20% penghasilan ke rekening tabungan/investasi begitu gajian. Ini mencegah dana tercampur dan terpakai.</li>
                 <li><strong>• Evaluasi Bulanan:</strong> Di akhir bulan, luangkan waktu 15-30 menit untuk mengevaluasi pengeluaranmu. Apakah alokasi sudah tepat? Ada yang bisa dihemat? Dari sini, kamu bisa menyesuaikan strategi untuk bulan berikutnya.</li>
                 <li><strong>• Cari Sumber Pendapatan Tambahan:</strong> Jika alokasi 50% untuk kebutuhan masih terasa terlalu sempit, pertimbangkan untuk mencari penghasilan tambahan atau mengelola pengeluaran kebutuhan agar lebih efisien.</li>
@@ -150,7 +251,7 @@ const allArticles = [
     <ul>
         <li><strong>• Fortune City:</strong> Aplikasi ini menggabungkan pencatatan keuangan dengan membangun kota virtual. Setiap transaksi yang Anda catat akan membantu membangun gedung di kota Anda.</li>
         <li><strong>• Habitica:</strong> Jadikan menabung sebagai bagian dari misi harian bersama "karakter" game Anda. Selesaikan tugas menabung, dapatkan poin pengalaman, dan naik level!</li>
-        <li><strong>• Monific atau Save It! (khusus Android/iOS):</strong> Aplikasi ini membantu menabung secara otomatis berdasarkan *goals* dan tantangan yang Anda buat sendiri, dengan visualisasi progres yang memotivasi.</li>
+        <li><strong>• Monific atau Save It! (khusus Android/iOS):</strong> Aplikasi ini membantu menabung secara otomatis berdasarkan <b>goals</b> dan tantangan yang Anda buat sendiri, dengan visualisasi progres yang memotivasi.</li>
     </ul><br>
 
     <b><h2>Manfaat Menabung dengan Gamification</h2></b>
@@ -196,7 +297,7 @@ const allArticles = [
         </li>
         <li>
             <b><h3>• Reward-Based Saving (Menabung Berbasis Reward)</h3></b>
-            <p>Setiap kali kamu mencapai target non-finansial (contoh: belajar 2 jam nonstop, *workout* 5 hari seminggu, tidak nongkrong seminggu, menyelesaikan proyek), beri dirimu reward berupa transfer sejumlah uang ke tabungan khusus "goal setting". Ini membentuk koneksi positif antara pencapaian pribadi dan finansial, membuat proses menabung terasa lebih memuaskan.</p><br>
+            <p>Setiap kali kamu mencapai target non-finansial (contoh: belajar 2 jam nonstop, <b>workout</b> 5 hari seminggu, tidak nongkrong seminggu, menyelesaikan proyek), beri dirimu reward berupa transfer sejumlah uang ke tabungan khusus "goal setting". Ini membentuk koneksi positif antara pencapaian pribadi dan finansial, membuat proses menabung terasa lebih memuaskan.</p><br>
         </li>
         <li>
             <b><h3>Jadikan Menabung Sebagai Tren Sosial</h3></b>
@@ -227,60 +328,183 @@ const allArticles = [
     <p>Mulai dari langkah kecil yang terasa seru hari ini, dan biarkan kebiasaan ini tumbuh jadi bagian penting dari hidupmu. Jangan lupa untuk selalu mencari inspirasi dan tips keuangan lainnya di <a href="http://gleam.web.id/" title="Peta Finansial: Panduan Keuangan Pribadi">Peta Finansial</a>!</p>
     `,
   },
+
+  // Lifestyle & Money Articles
   {
-    id: "menabung-dengan-tantangan-harian",
-    title: "Gamify Your Savings: Menabung Seru dengan Tantangan Harian!",
-    category: "saving",
+    id: "mending-olahraga-atau-cari-relasi-padel-santai-dulu-gak-sih",
+    title: `Mending Olahraga atau Cari Relasi? Padel: "Santai Dulu Gak Sih?"`,
+    category: "Lifestyle & Money",
     image:
-      "https://images.unsplash.com/photo-1641134301517-a2a338aba1cf?q=80&w=2274&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    date: "14 Juni 2025",
-    excerpt: `Bikin Aktivitas Menabung Jadi Lebih Seru dan Konsisten Lewat Gamification Finansial`,
+      "https://images.unsplash.com/photo-1673253408728-134f84f9279c?q=80&w=2536&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    date: "15 Juni 2025",
+    excerpt:
+      "Mengajak pembaca untuk tetap menikmati gaya hidup tanpa mengorbankan kondisi keuangan, lewat pengeluaran yang penuh kesadaran.",
     content: `
-      <h1>Bikin Aktivitas Menabung Jadi Lebih Seru dan Konsisten Lewat Gamification Finansial</h1><br>
+    <b><h1>Padel: Investasi Kesehatan & Jejaring di Tengah Tantangan Ekonomi 2025</h1></b><br>
 
-    <p>Menabung sering kali terasa membosankan dan sulit dipertahankan, terutama jika dilakukan tanpa motivasi yang kuat. Tapi bagaimana jika aktivitas menabung bisa terasa seperti bermain game? Dengan pendekatan <strong>gamification</strong>, kamu bisa membuat kebiasaan finansial ini lebih menyenangkan, penuh tantangan, dan pastinya lebih konsisten! Artikel ini akan membahas cara mengubah aktivitas menabung menjadi permainan harian yang seru dan menantang.</p><br>
+    <b><h2>Pendahuluan: Olahraga & Jejaring di Tengah Tantangan Ekonomi</h2></b><br>
+    Tahun 2025 diwarnai oleh beragam tantangan perekonomian,<br>
+    mulai dari kenaikan inflasi yang dipicu naiknya tarif Pajak Pertambahan Nilai (PPN) menjadi 12 persen,<br>
+    hingga ketegangan geopolitik global yang masih berlanjut.<br>
+    Situasi ini tentu berdampak pada keuangan pribadi, menuntut kita untuk semakin cermat dalam mengelola pengeluaran dan memilih kegiatan.<br>
+    Di tengah kondisi ini, menemukan aktivitas yang tidak hanya menyehatkan tetapi juga dapat memperluas relasi menjadi semakin penting.<br>
+    <strong>Padel</strong>, olahraga yang semakin digandrungi, hadir sebagai jawaban yang menarik untuk dilema tersebut.<br><br>
 
-    <b><h2>Apa Itu Gamification dalam Menabung?</h2></b>
-    <p><strong>Gamification</strong> adalah penerapan elemen permainan dalam aktivitas non-game, seperti menabung atau mengelola keuangan. Tujuannya adalah untuk mendorong kebiasaan baik melalui reward, level, dan tantangan. Saat menabung menggunakan sistem gamification, kamu akan merasa lebih termotivasi karena setiap pencapaian bisa memberikan rasa banggang dan progres yang terlihat jelas.</p><br>
+    <b><h2>Mengenal Padel dan Manfaatnya untuk Kesehatan</h2></b><br>
+    <strong>Padel</strong> adalah olahraga raket yang menggabungkan elemen tenis, squash, dan bulu tangkis,<br>
+    dimainkan di lapangan yang lebih kecil, dikelilingi dinding kaca dan pagar kawat.<br>
+    Permainan ini umumnya dimainkan dalam mode ganda (dua lawan dua), yang secara alami mendorong interaksi dan komunikasi antar pemain.<br><br>
 
-    <img src="https://blogimage.vantagecircle.com/content/images/2023/10/VC_Featured-Image-Dark-1.png" alt="Ilustrasi tangan bermain game sambil menabung koin, melambangkan gamification finansial" width="800" height="450"><br>
-
-    <b><h2>Contoh Tantangan Harian Menabung yang Seru</h2></b>
-    <p>Berikut beberapa contoh <strong>tantangan menabung</strong> yang bisa kamu coba untuk membuat prosesnya lebih menarik:</p>
+    Manfaat padel untuk kesehatan sangat beragam:<br><br>
     <ul>
-        <li><strong>• Challenge 30 Hari Menabung:</strong> Simpan Rp1.000 di hari pertama, lalu naikkan Rp1.000 setiap harinya. Total tabunganmu di akhir bisa mencapai lebih dari Rp450.000! Ini cara yang bagus untuk membangun disiplin secara bertahap.</li>
-        <li><strong>• Tantangan Warna Uang:</strong> Setiap kamu mendapat uang dengan warna tertentu (misalnya uang Rp5.000 berwarna hijau, atau Rp2.000 berwarna abu-abu), langsung masukkan ke celengan atau rekening khusus. Ini membuat menabung jadi seperti berburu harta karun.</li>
-        <li><strong>• Roll a Dice Challenge:</strong> Lempar dadu setiap hari. Angka yang muncul dikali Rp1.000 (atau nominal lain yang kamu tentukan), itulah jumlah yang kamu tabung hari itu. Kamu tidak pernah tahu berapa yang akan kamu tabung setiap hari!</li>
-        <li><strong>• Aplikasi Gamified Saving:</strong> Gunakan aplikasi seperti Fortune City, Habitica, atau Save It! yang mengubah menabung jadi seperti bermain game. Lebih lanjut tentang ini di bagian selanjutnya.</li>
-    </ul><br>
+        <li><strong>Kardiovaskular:</strong> Padel adalah olahraga yang dinamis dengan gerakan cepat, berlari, dan melompat,<br>yang sangat baik untuk kesehatan jantung dan paru-paru.<br>Ini membantu meningkatkan stamina dan kebugaran aerobik secara keseluruhan.<br><br></li>
+        <li><strong>Kekuatan Otot:</strong> Gerakan eksplosif dalam padel melibatkan banyak kelompok otot, termasuk kaki, lengan, dan inti tubuh,<br>sehingga membantu membangun kekuatan dan daya tahan otot.<br><br></li>
+        <li><strong>Koordinasi dan Refleks:</strong> Ukuran lapangan yang kecil dan kecepatan bola menuntut pemain untuk memiliki koordinasi mata dan tangan yang baik, serta refleks yang cepat.<br><br></li>
+        <li><strong>Fleksibilitas dan Keseimbangan:</strong> Padel melibatkan gerakan memutar dan membungkuk, yang dapat meningkatkan fleksibilitas tubuh.<br>Keseimbangan juga penting untuk menjaga posisi dan melakukan pukulan yang efektif.<br><br></li>
+        <li><strong>Kesehatan Mental:</strong> Seperti olahraga lainnya, padel dapat menjadi pelepas stres yang efektif.<br>Interaksi sosial yang intens dalam permainan ganda juga dapat mengurangi perasaan kesepian dan meningkatkan <strong>mood</strong>.<br>Bermain dengan teman atau bergabung dengan komunitas dapat meningkatkan kesejahteraan mental.<br><br></li>
+    </ul>
 
-    <b><h2>Tools & Aplikasi Pendukung</h2></b>
-    <p>Untuk mendukung <strong>aktivitas menabung</strong> Anda menjadi lebih seru, ada beberapa aplikasi yang dirancang khusus dengan elemen gamifikasi:</p>
-    <ul>
-        <li><strong>• Fortune City:</strong> Aplikasi ini menggabungkan pencatatan keuangan dengan membangun kota virtual. Setiap transaksi yang Anda catat akan membantu membangun gedung di kota Anda.</li>
-        <li><strong>• Habitica:</strong> Jadikan menabung sebagai bagian dari misi harian bersama "karakter" game Anda. Selesaikan tugas menabung, dapatkan poin pengalaman, dan naik level!</li>
-        <li><strong>• Monific atau Save It! (khusus Android/iOS):</strong> Aplikasi ini membantu menabung secara otomatis berdasarkan *goals* dan tantangan yang Anda buat sendiri, dengan visualisasi progres yang memotivasi.</li>
-    </ul><br>
+    <b><h2>Padel: Lebih dari Sekadar Olahraga Raket</h2></b><br>
+    <strong>Padel</strong> adalah olahraga yang menawarkan manfaat kesehatan signifikan sekaligus menjadi sarana efektif untuk memperluas jejaring sosial.<br>
+    Konsep permainannya yang lebih santai dan ukuran lapangan yang relatif kecil mendorong interaksi yang lebih intens antar pemain.<br>
+    Hal ini menjadikan padel sebagai medium baru yang segar untuk membangun relasi.<br>
+    Permainan ganda (empat pemain) dalam satu lapangan kecil secara alami memicu percakapan dan keakraban, memecah sekat formalitas yang mungkin ditemui di lingkungan kerja atau acara jejaring konvensional.<br><br>
+    Rizky Rahman, seorang karyawan swasta berusia 24 tahun, merasakan langsung bagaimana padel membantunya memperluas lingkar pertemanannya.<br>
+    Ia dan teman-temannya bahkan membentuk komunitas kecil bernama Spadel.<br>
+    Pengalaman serupa dibagikan oleh Sasti Emanuela, seorang profesional pengembangan bisnis berusia 39 tahun, yang telah bermain padel sejak November 2024.<br>
+    Ia menyaksikan sendiri bagaimana olahraga ini berhasil memperluas hubungannya lintas usia dan latar belakang.<br><br>
 
-    <b><h2>Manfaat Menabung dengan Gamification</h2></b>
-    <p>Menerapkan gamification dalam menabung bukan hanya soal kesenangan, tapi juga memberikan manfaat nyata:</p>
-    <ul>
-        <li><strong>• Lebih Konsisten:</strong> Karena terasa menyenangkan dan ada elemen tantangan/reward, kamu lebih mudah menjadikannya kebiasaan jangka panjang. Ini mengatasi kebosanan menabung tradisional.</li>
-        <li><strong>• Tingkatkan Motivasi:</strong> Adanya reward, progres yang terlihat (misalnya naik level atau menyelesaikan tantangan), membuat kamu lebih semangat menyelesaikan tantangan dan mencapai target finansial.</li>
-        <li><strong>• Bisa Dilakukan Bersama:</strong> Beberapa tantangan atau aplikasi bisa dilakukan bersama teman, pasangan, atau komunitas. Ini menambah elemen kompetisi sehat atau dukungan, membuat prosesnya lebih menyenangkan.</li>
-        <li><strong>• Membangun Kebiasaan Positif:</strong> Secara tidak sadar, Anda sedang melatih otak untuk mengasosiasikan menabung dengan hal positif dan pencapaian.</li>
-    </ul><br>
+    <b><h2>Padel: Investasi Kesehatan dan Relasi, Bagaimana dengan Finansial?</h2></b><br>
+    Meskipun padel menawarkan keuntungan sosial dan fisik yang menarik, penting juga untuk mempertimbangkan aspek finansialnya.<br>
+    Seperti olahraga lainnya, padel memerlukan investasi awal dan biaya berkelanjutan.<br>
+    Biaya ini meliputi pembelian peralatan seperti raket padel dan bola, serta yang utama adalah biaya sewa lapangan.<br>
+    Dibandingkan dengan olahraga raket lainnya seperti tenis yang seringkali membutuhkan biaya keanggotaan klub yang tinggi atau sewa lapangan yang mahal untuk durasi panjang,<br>
+    padel bisa menjadi pilihan yang lebih terjangkau, terutama jika dimainkan secara berkelompok.<br><br>
+    Sewa lapangan padel biasanya dihitung per jam atau per sesi, dan biayanya dapat dibagi rata di antara empat pemain, menjadikannya pilihan yang ekonomis untuk hiburan dan olahraga rutin.<br>
+    Selain itu, seiring dengan meningkatnya popularitas padel, semakin banyak fasilitas yang menawarkan berbagai paket keanggotaan atau diskon, yang dapat mengurangi beban finansial bagi para pemain reguler.<br><br>
+    Dengan demikian, padel tidak hanya merupakan investasi untuk kesehatan fisik dan jejaring sosial,<br>
+    tetapi juga bisa menjadi pilihan yang bijak dari segi finansial,<br>
+    terutama bagi mereka yang mencari aktivitas olahraga yang menyenangkan tanpa harus merogoh kocek terlalu dalam.<br>
 
-    <b><h2>Penutup</h2></b>
-    <p>Menabung tidak harus selalu terasa membosankan. Dengan metode <strong>gamify your savings</strong>, kamu bisa menjadikan kebiasaan menabung sebagai kegiatan yang menyenangkan, penuh motivasi, dan mudah dijalani setiap hari. Ini adalah cara cerdas untuk mencapai tujuan finansial tanpa merasa tertekan.</p>
-    <p>Mulai hari ini, pilih tantangan sederhana yang paling menarik bagimu, dan lihat seberapa jauh kamu bisa berkembang dalam perjalanan finansialmu! Jangan lupa kunjungi <a href="http://gleam.web.id/blog-keuangan-pribadi/" title="Peta Finansial: Blog Keuangan Pribadi">artikel keuangan pribadi lainnya di Peta Finansial</a> untuk tips dan wawasan lebih lanjut.</p>
+    <h2>Kesimpulan</h2><br>
+    Jadi, "Mending Olahraga atau cari Relasi?" Padel membuktikan bahwa Anda tidak perlu memilih salah satunya.<br>
+    Anda bisa mendapatkan keduanya: kesehatan fisik melalui aktivitas yang menyenangkan dan perluasan jejaring sosial di lingkungan yang santai dan suportif.<br>
+    Dengan perencanaan keuangan yang cermat, padel bisa menjadi "investasi" yang berharga bagi keseimbangan hidup dan masa depan finansial Anda di tengah dinamika ekonomi yang ada.<br>
     `,
   },
+  {
+    id: "sering-have-fun-tapi-dompet-tetap-slayy",
+    title: `Sering Have Fun, tapi Dompet Tetap Slayy!!`,
+    category: "Lifestyle & Money",
+    image:
+      "https://images.unsplash.com/photo-1495837174058-628aafc7d610?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    date: "15 Juni 2025",
+    excerpt:
+      "Mengajak pembaca untuk tetap menikmati gaya hidup tanpa mengorbankan kondisi keuangan, lewat pengeluaran yang penuh kesadaran.",
+    content: `
+    <h1>Antara Keinginan dan Kenyataan Dompet: Hidup Keren Tanpa Bikin Bokek (Panduan Gaya Hidup Financially Smart)</h1><br>
+
+    <h2>Pendahuluan: Antara Keinginan dan Kenyataan Dompet</h2><br>
+    Di era serba cepat ini, gaya hidup dan keuangan itu ibarat dua sejoli yang sering tarik ulur.<br>
+    Di satu sisi, hasrat buat tampil <strong>stylish</strong>, aktif, dan selalu <strong>up-to-date</strong> sama tren itu gede banget.<br>
+    Pengennya <strong>flexing</strong> terus! Tapi di sisi lain, kondisi dompet juga kudu stabil biar hidup tenang, anti-stres gara-gara tagihan numpuk atau utang yang ngejar-ngejar.<br><br>
+    Pertanyaan klasik pun muncul: Emang bisa ya, kita menjalani gaya hidup yang seru dan menyenangkan tanpa bikin dompet menjerit histeris?<br>
+    Jawabannya: BISA BANGET! Kuncinya cuma satu: paham gimana cara menyeimbangkan keduanya.<br><br>
+
+    <h2>Kenapa Gaya Hidup dan Dompet Harus Sejalan? Biar Nggak Cuma Gengsi Doang!</h2><br>
+    Sadarkah kamu? Hampir semua kebiasaan sehari-hari kita—mulai dari ritual ngopi cantik di kafe hits, <strong>scroll</strong> belanja <strong>online</strong> sampai keranjang penuh, <strong>traveling</strong> impian ke tempat-tempat eksotis, hingga langganan berbagai layanan <strong>streaming</strong>—itu punya hubungan langsung sama kondisi keuangan kita.<br>
+    Tanpa perencanaan yang matang, pengeluaran-pengeluaran kecil yang sering kita anggap remeh bisa jadi bom waktu yang meledak jadi beban besar di akhir bulan.<br><br>
+    Coba deh bayangin skenario ini:<br>
+    "Cuma ngopi 25 rebu per hari, ah kecil!" Eits, tunggu dulu.<br>
+    Kalau dijumlah, itu udah 750 rebu per bulan.<br>
+    Dan coba tebak, dalam setahun? Udah Rp9 juta sendiri! Uang segitu bisa buat liburan kemana tuh?<br><br>
+    Jadi, penting banget buat <strong>wake up call</strong> kalau gaya hidup itu PILIHAN, bukan sebuah KEHARUSAN.<br>
+    Kita tetep bisa jadi pribadi yang <strong>stylish</strong> dan aktif tanpa perlu jadi boros, apalagi sampai ngutang.<br>
+    Intinya, jangan sampai cuma gengsi doang yang bikin dompet sekarat.<br><br>
+
+    <h2>5 Jurus Ampuh Nikmatin Hidup Tanpa Bikin Dompet Sesak (Ala Anak Gaul Hemat)</h2><br>
+    <ol>
+        <li>
+            <h3>Bikin Limit Khusus Buat Lifestyle Kamu (A.K.A. Bujet Gaya Hidup)</h3><br>
+            Disiplin itu pangkal kaya! Coba deh bikin limit khusus buat gaya hidup di anggaran bulananmu.<br>
+            Misalnya, dari total gaji, sisihkan maksimal 20% aja buat hiburan, hobi, atau <strong>hangout</strong> bareng temen.<br>
+            Dengan begini, kamu punya batasannya dan nggak bakal kebablasan.<br>
+            Mau foya-foya? Boleh, tapi ada jatahnya!<br><br>
+        </li>
+        <li>
+            <h3>Terapkan Jurus Jitu "50/30/20"</h3><br>
+            Ini rumus sakti yang wajib banget kamu tahu:<br><br>
+            <ul>
+                <li><strong>50% buat Kebutuhan Primer:</strong> Alias yang wajib banget kayak makan, bayar kontrakan/kos, transportasi, pulsa, atau kuota internet. Ini prioritas nomor satu.</li><br>
+                <li><strong>30% buat Keinginan:</strong> Nah, ini dia jatah buat <strong>self-reward</strong> atau hedon tipis-tipis.<br>Mau nongkrong di kafe, nonton film terbaru, beli baju baru, atau <strong>hunting</strong> koleksi hobi? Masukin ke sini! Tapi ingat, ada batasnya!</li><br>
+                <li><strong>20% buat Tabungan dan Investasi:</strong> Ini yang paling krusial buat masa depanmu.<br>Jangan sampai kelewat! Mau itu <a href="https://gleam.web.id/investasi-reksadana-mahasiswa-100-ribu/" title="Investasi Reksadana untuk Mahasiswa">reksa dana</a>, saham, emas, atau sekadar nabung di bank, penting banget buat disisihkan dari awal.</li>
+            </ul><br><br>
+        </li>
+        <li>
+            <h3>Hati-hati Sama FOMO! (Fear of Missing Out)</h3><br>
+            Pernah nggak sih, tiba-tiba pengen beli sesuatu cuma karena temen-temen di <strong>timeline</strong> lagi pamer barang itu?<br>
+            Atau tergiur diskon gede padahal nggak butuh-butuh amat? STOP!<br>
+            Sebelum nge-klik "beli" atau ngantre di kasir, coba tanya diri sendiri: "Aku beli ini karena beneran butuh banget, atau cuma takut ketinggalan tren doang, sih?"<br>
+            Jangan sampai terperangkap jebakan <a href="https://gleam.web.id/atasi-fomo-keuangan/" title="Atasi FOMO Keuangan">FOMO</a> yang bikin dompet jebol.<br><br>
+        </li>
+        <li>
+            <h3>Mulai Investasi dari Receh, Jangan Tunda!</h3><br>
+            Pengen punya barang mewah impian atau merasakan <strong>rich lifestyle</strong> di masa depan? Boleh banget!<br>
+            Tapi pastikan kamu juga udah mulai investasi dari sekarang.<br>
+            Bahkan modal 10 ribu per hari aja udah cukup kok kalau dilakuin rutin.<br>
+            Ingat pepatah: sedikit demi sedikit, lama-lama jadi bukit! Masa depan finansialmu itu ada di tanganmu sendiri.<br><br>
+        </li>
+        <li>
+            <h3>Cari Alternatif yang Lebih Ramah Kantong tapi Tetep Seru</h3><br>
+            Hidup hemat bukan berarti nggak bisa seru.<br>
+            Banyak banget kok alternatif yang bikin dompet nggak nangis tapi tetap bisa menikmati hidup:<br><br>
+            <ul>
+                <li>Daripada ngopi di kafe mahal tiap hari, mending nongkrong di taman sambil bawa kopi bikinan sendiri dari rumah.<br>Lebih <strong>chill</strong>, lebih irit, dan bisa menikmati suasana.<br></li>
+                <li>Nyari baju keren dan unik? Coba deh <strong>thrifting</strong> atau lirik <strong>local brand</strong> berkualitas yang harganya lebih bersahabat tapi desainnya nggak kalah kece.<br></li>
+                <li>Daripada jajan di luar terus setiap <strong>weekend</strong>, mending ajak temen-temen masak bareng di rumah.<br>Lebih seru, lebih sehat, dan pastinya lebih hemat.<br></li>
+    </ul><br>
+        </li>
+    </ol>
+
+    <img src="https://i.pinimg.com/736x/2b/a6/5e/2ba65ef3667bf6df82f2b7fe45f6299a.jpg" alt="Ilustrasi seseorang menikmati gaya hidup cerdas secara finansial" width="800" height="450"><br><br>
+
+    <h2>Contoh Gaya Hidup Seimbang: It's All About Smart Choices!</h2><br>
+    Berikut adalah perbandingan aktivitas versi boros dan versi hemat yang tetap asyik:<br><br>
+    <p><strong>Aktivitas: Ngopi</strong><br>
+    Versi Boros: Kafe mahal tiap hari, foto-foto <strong>aesthetic</strong> buat <strong>feed</strong><br>
+    Versi Hemat (tapi Tetap Asyik!): Kopi <strong>sachet</strong> racikan sendiri, <strong>brewing</strong> di rumah, atau <strong>explore</strong> kafe lokal seminggu sekali</p><br>
+    <p><strong>Aktivitas: Traveling</strong><br>
+    Versi Boros: Mendadak, <strong>overbudget</strong>, nginep hotel bintang 5 terus<br>
+    Versi Hemat (tapi Tetap Asyik!): Direncanakan jauh hari, manfaatkan promo tiket/penginapan, cari <strong>homestay</strong> atau <strong>hostel</strong> yang <strong>cozy</strong></p><br>
+    <p><strong>Aktivitas: Belanja fashion</strong><br>
+    Versi Boros: <strong>Brand</strong> mahal cuma karena tren, kalap diskon<br>
+    Versi Hemat (tapi Tetap Asyik!): <strong>Thrifting</strong> baju <strong>preloved</strong> berkualitas, <strong>hunting local brand</strong> keren, jago <strong>mix and match</strong> dari yang ada</p><br>
+    <p><strong>Aktivitas: Hiburan</strong><br>
+    Versi Boros: Langganan banyak layanan <strong>streaming</strong> sekaligus<br>
+    Versi Hemat (tapi Tetap Asyik!): Pilih 1–2 layanan yang paling sering kamu pakai, <strong>sharing</strong> akun sama temen (kalau legal ya!), atau <strong>hunting</strong> tontonan gratis</p><br>
+
+    <h2>Tanda Kamu Punya Gaya Hidup yang Financially Smart dan Cool</h2><br>
+    <ul>
+        <li>Selalu punya <a href="https://gleam.web.id/pentingnya-dana-darurat/" title="Pentingnya Dana Darurat">dana darurat</a>: Minimal 3x pengeluaran bulanan. Ini penting banget buat jaga-jaga kalau ada kejadian tak terduga. <strong>Always be prepared!</strong><br></li>
+        <li>Nggak kalap beli barang cuma karena diskon gede: Kamu tahu nilai barang sebenarnya, bukan cuma tergiur sama angka harga coretnya. Kamu pembeli cerdas!<br></li>
+        <li>Bisa bayar semua tagihan tepat waktu tanpa harus ngutang sana-sini: <strong>No drama, no headache!</strong> Hidup tenang tanpa beban utang.<br></li>
+        <li>Masih bisa menabung atau investasi, meskipun punya hobi yang lumayan menguras kantong: Kamu tahu prioritas dan pandai mengelola keuangan.<br></li>
+        <li>Gaya hidup sesuai kemampuan, bukan cuma ngikutin gengsi atau omongan orang: <strong>Be yourself, be smart, be happy!</strong> Kamu fokus sama kebahagiaan diri, bukan validasi orang lain.</li>
+    </ul><br>
+
+    <h2>Penutup: Hidup Keren Nggak Harus Bikin Bokek</h2><br>
+    Intinya, hidup yang keren itu bukan yang boros-borosan tanpa mikir.<br>
+    Hidup yang keren adalah ketika kamu tahu apa yang kamu inginkan, bisa menikmatinya dengan cara yang cerdas, dan yang paling penting, tetap aman secara finansial.<br>
+    Ingat, <strong>rich lifestyle</strong> itu bukan soal berapa banyak kamu ngabisin duit, tapi soal seberapa bijak kamu mengelolanya.<br>
+    "Kamu bisa beli kopi mahal, asal kamu juga bisa beli masa depanmu."<br>
+    `,
+  },
+
   // Financial Basics Articles
   {
     id: "investasi-reksadana-untuk-mahasiswa",
     title: "Investasi Reksadana untuk Mahasiswa: Mulai dari Rp100 Ribu",
-    category: "financial-basics",
+    category: "Financial Basics",
     image:
       "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&auto=format&fit=crop&q=60",
     date: "19 Maret 2024",
@@ -350,11 +574,127 @@ const allArticles = [
             <p>Jangan tunda lagi! Jadikan momen kuliah ini tidak hanya untuk menimba ilmu, tetapi juga untuk melatih kemandirian finansial. Mari mulai perjalanan investasi Anda bersama <a href="http://gleam.web.id/" title="Peta Finansial">Peta Finansial</a>.</p>
     `,
   },
+  {
+    id: "cuan-dari-awal-cara-mengelola-gaji-pertama-dengan-bijak",
+    title: "Cuan dari Awal: Cara Mengelola Gaji Pertama dengan Bijak",
+    category: "Financial-Basics",
+    image:
+      "https://plus.unsplash.com/premium_photo-1682104376701-d834c2b7aaf2?q=80&w=2584&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    date: "15 Juni 2025",
+    excerpt:
+      "Memberi pemahaman bahwa cara mengelola gaji pertama menentukan fondasi keuangan jangka panjang.",
+    content: `
+    <h1>Jangan Langsung Habis! Rencanakan Gaji Pertamamu dengan Cerdas</h1><br>
+
+    Menerima <strong>gaji pertama</strong> adalah momen yang membanggakan.<br>
+    Tapi, jangan sampai kamu terlalu semangat sampai gajimu habis dalam hitungan hari!<br>
+    Di artikel ini, kita akan bahas cara <strong>mengelola gaji pertama</strong> agar bisa bermanfaat jangka panjang tanpa kehilangan kesenangan sesaat.<br><br>
+
+    <h2>Langkah-langkah Mengelola Gaji Pertama</h2><br>
+    Berikut adalah strategi cerdas yang bisa kamu terapkan begitu gaji pertamamu masuk rekening:<br><br>
+    <ol>
+        <li><strong>Bayar Diri Sendiri Dulu (Pay Yourself First):</strong><br>
+            Sisihkan 10–20% langsung untuk tabungan begitu gaji masuk. Anggap ini sebagai "tagihan" terpenting yang harus dibayar.</li><br>
+        <li><strong>Tentukan Pos Pengeluaran:</strong><br>
+            Buat kategori sederhana untuk alokasi dana: kebutuhan, keinginan, dan masa depan (tabungan/investasi). Ini membantu Anda melihat ke mana uang Anda pergi.</li><br>
+        <li><strong>Buat Dana Darurat Mini:</strong><br>
+            Mulai dari target Rp1 juta pertama sebagai <b>safety net</b>. Dana ini penting untuk menghadapi pengeluaran tak terduga tanpa perlu berutang.</li><br>
+        <li><strong>Hindari Utang di Awal Karier:</strong><br>
+            Jangan buru-buru ambil cicilan atau utang konsumtif hanya karena merasa "mampu". Fokus bangun fondasi keuangan yang kuat dulu, baru pertimbangkan utang produktif jika memang diperlukan.</li><br>
+    </ol><br>
+
+    <h2>Contoh Pembagian Gaji Pertama Rp4.500.000</h2><br>
+    Untuk memberikan gambaran yang lebih jelas, mari kita lihat contoh alokasi <strong>gaji pertama</strong> sebesar Rp4.500.000:<br><br>
+    <ul>
+        <li>Rp2.500.000 untuk kebutuhan hidup (kos, makan, transport, dll.)<br></li>
+        <li>Rp1.000.000 untuk keinginan dan hiburan (makan di luar, nonton, beli kopi, dll.)<br></li>
+        <li>Rp500.000 untuk tabungan/investasi (misalnya ke <a href="https://gleam.web.id/investasi-reksadana-mahasiswa-100-ribu/" title="Investasi Reksadana untuk Mahasiswa">reksadana</a> atau tabungan tujuan)<br></li>
+        <li>Rp500.000 untuk dana darurat atau membantu keluarga (opsional, sesuaikan kebutuhan)<br></li>
+    </ul><br>
+
+    <img src="https://assets.jago.com/web-assets/public/blog-202110-cara-mengatur-gaji.jpg" alt="Ilustrasi seseorang merencanakan gaji pertama dengan cerdas" width="800" height="450"><br><br>
+
+    <h2>Kesalahan Umum Gaji Pertama</h2><br>
+    Berikut adalah beberapa jebakan yang seringkali membuat <strong>gaji pertama</strong> cepat habis:<br><br>
+    <ul>
+        <li>Foya-foya dulu, baru mikir tabungan.<br></li>
+        <li>Tidak mencatat pengeluaran, sehingga tidak tahu uang pergi ke mana.<br></li>
+        <li>Beli barang <b>branded</b> mahal demi "pencitraan" atau mengikuti tren.<br></li>
+        <li>Langsung <b>apply</b> kartu kredit dan terjebak utang konsumtif.</li>
+    </ul><br>
+
+    <h2>Tips Tambahan agar Gaji Pertama Lebih Optimal</h2><br>
+    Agar pengelolaan gaji pertamamu makin efektif dan konsisten:<br><br>
+    <ul>
+        <li>Gunakan aplikasi keuangan seperti Jago atau Blu untuk membagi uang ke dalam "kantong" otomatis atau rekening terpisah. Ini membantu disiplin.</li><br>
+        <li>Evaluasi pengeluaran mingguan di minggu pertama dan kedua. Dengan begitu, Anda bisa segera menyesuaikan jika ada pengeluaran yang berlebihan.</li><br>
+        <li>Tetapkan target finansial yang jelas, misalnya: "Gaji ketiga harus sudah punya tabungan Rp1.000.000" atau "Dalam 6 bulan, dana darurat sudah terisi penuh".</li><br>
+    </ul><br>
+
+    <h2>Penutup</h2><br>
+    <strong>Gaji pertama</strong> bisa jadi titik awal masa depan cerah asal kamu tahu cara mengelolanya dengan cerdas.<br>
+    Nikmati hasil kerja kerasmu, tapi jangan lupakan tanggung jawab keuangan jangka panjang.<br>
+    Karena keputusan hari ini bisa menentukan keamanan finansialmu di tahun-tahun ke depan. Mulailah perjalanan keuanganmu dengan bijak bersama <a href="https://gleam.web.id/" title="Peta Finansial">Peta Finansial</a>.<br>
+    `,
+  },
+  {
+    id: "mindful-spending-belanja-tanpa-penyesalan-di-era-digital",
+    title: "Mindful Spending: Belanja Tanpa Penyesalan di Era Digital",
+    category: "Financial-Basics",
+    image:
+      "https://images.unsplash.com/photo-1650821414390-276561abd95a?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    date: "15 Juni 2025",
+    excerpt:
+      "Mengajak pembaca untuk tetap menikmati gaya hidup tanpa mengorbankan kondisi keuangan, lewat pengeluaran yang penuh kesadaran.",
+    content: `
+    <b><h1>Belanja Boleh, Tapi Harus Sadar: Terapkan Mindful Spending!</h1></b><br>
+
+    <p>Diskon di mana-mana, <b>checkout</b> cuma satu klik, dan notifikasi <b>flash sale</b> tiap hari—semua itu bisa membuat kita belanja impulsif tanpa sadar.<br>
+    Akibatnya? Penyesalan datang belakangan. Artikel ini membahas konsep <strong><em>mindful spending</em></strong> atau <strong>belanja dengan kesadaran</strong>, agar kamu tetap menikmati hidup tanpa bikin kantong jebol.<br><br>
+
+    <b><h2>Apa Itu Mindful Spending?</h2></b><br>
+    <p><strong><em>Mindful spending</em></strong> adalah kebiasaan mengeluarkan uang dengan pertimbangan matang, selaras dengan nilai dan kebutuhan hidup Anda.<br>
+    Intinya: belanja bukan untuk pelarian emosional, tapi keputusan sadar yang bikin puas jangka panjang dan sesuai tujuan finansialmu.<br><br>
+
+    <b><h2>Prinsip-Prinsip Mindful Spending</h2></b><br>
+    Untuk menerapkan <strong>belanja dengan kesadaran</strong>, pegang teguh prinsip-prinsip berikut:<br><br>
+    <ul>
+        <li>Tanya diri sebelum beli: "Apakah ini keinginan atau kebutuhan?"<br>Pertanyaan sederhana ini bisa jadi rem efektif.</li><br>
+        <li>Gunakan metode <b>pause</b> 24 jam sebelum beli barang mahal.<br>Ini memberi waktu untuk berpikir rasional dan menghindari pembelian impulsif.</li><br>
+        <li>Bandingkan harga dan kualitas, jangan langsung tergiur promo.<br>Pastikan Anda mendapatkan nilai terbaik untuk uang yang dikeluarkan.</li><br>
+        <li>Evaluasi pengeluaran mingguan dan bulanan secara berkala.<br>Ini membantu Anda melihat pola belanja dan area yang bisa diperbaiki.</li><br>
+        <li>Sesuaikan dengan tujuan finansial jangka panjang.<br>Setiap pengeluaran seharusnya membawa Anda lebih dekat pada tujuan, bukan menjauh.</li>
+    </ul><br>
+
+    <img src="https://greatmind.id/uploads/article-detail/cacee78ce87cd0096fd96fc88bfe81860165aaae.jpg" alt="Ilustrasi seseorang memikirkan keputusan belanja dengan sadar" width="800" height="450"><br><br>
+
+    <b><h2>Contoh Nyata Penerapan Mindful Spending</h2></b><br>
+    Mari kita lihat contoh sederhana bagaimana <strong><em>mindful spending</em></strong> bisa diterapkan:<br><br>
+    Alih-alih beli kopi kekinian Rp40.000 tiap hari, kamu bisa atur <b>budget</b> "ngopi" mingguan Rp100.000.<br>
+    Sisanya masuk ke tabungan.<br>
+    Kamu tetap bisa menikmati, tanpa berlebihan dan uang tetap bisa dialokasikan untuk hal yang lebih penting.<br><br>
+
+    <b><h2>Alat Bantu Mendukung Mindful Spending</h2></b><br>
+    Untuk membantu Anda dalam perjalanan <strong>belanja sadar</strong>, manfaatkan alat-alat berikut:<br><br>
+    <ul>
+        <li>Gunakan aplikasi <b>budgeting</b> seperti Money Lover, Spendee, atau <a href="https://gleam.web.id/atur-keuangan-metode-50-30-20/" title="Aplikasi Atur Keuangan">aplikasi pencatat keuangan</a> lainnya.<br></li>
+        <li>Buat <b>wishlist</b> dan beri skor prioritas (urgensi, kegunaan, nilai jangka panjang) sebelum membeli.<br></li>
+        <li><b>Unfollow</b> akun promosi atau <b>influencer</b> yang terlalu menggoda untuk belanja, terutama di media sosial.<br></li>
+        <li>Jadikan belanja tertunda sebagai tantangan: "Bisakah aku tahan 1 minggu lagi?"<br>Ini melatih kesabaran dan kontrol diri.</li>
+    </ul><br>
+
+    <b><h2>Penutup</h2></b><br>
+    Belanja seharusnya membuatmu senang bukan menyesal.<br>
+    Dengan <strong><em>mindful spending</em></strong>, kamu bisa menikmati setiap pembelian karena kamu tahu alasannya dan itu selaras dengan tujuan finansialmu.<br>
+    Ini bukan soal hemat mati-matian, tapi soal memilih dengan bijak dan sadar.<br>
+    Karena uangmu layak digunakan untuk hal yang benar-benar penting dan membantumu mencapai <a href="https://gleam.web.id/apa-itu-kebebasan-finansial/" title="Apa itu Kebebasan Finansial">kebebasan finansial</a>.
+    `,
+  },
   // Add more articles here...
 ];
 
 export async function generateMetadata({ params }) {
-  const { id } = params;
+  const { id } = await params;
   const article = allArticles.find((a) => a.id === id);
   if (!article) {
     return {
@@ -385,7 +725,7 @@ export async function generateMetadata({ params }) {
 }
 
 export default async function ArticlePage({ params }) {
-  const { id } = params;
+  const { id } = await params;
   const article = allArticles.find((article) => article.id === id);
 
   if (!article) {

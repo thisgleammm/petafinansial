@@ -4,34 +4,34 @@ import Script from "next/script";
 // Mock data for budgeting articles
 const budgetingArticles = [
   {
-    id: "cara-membuat-anggaran-bulanan-yang-efektif",
-    title: "Cara Membuat Anggaran Bulanan yang Efektif",
+    id: "cara-membuat-anggaran-bulanan-yang-efektif-di-tengah-krisis-ekonomi-pentingnya-budgeting",
+    title:
+      "Cara Membuat Anggaran Bulanan yang Efektif di Tengah Krisis Ekonomi: Pentingnya Budgeting",
     category: "Budgeting",
     image:
-      "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-    date: "15 Maret 2024",
+      "https://plus.unsplash.com/premium_photo-1725404428224-664f5f0217b3?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    date: "15 Juni 2025",
     excerpt:
-      "Pelajari langkah-langkah praktis untuk membuat anggaran bulanan yang efektif dan sesuai dengan kebutuhan Anda.",
+      "Pendahuluan tentang situasi ekonomi global saat ini dan dampaknya pada keuangan pribadi",
   },
   {
-    id: "budgeting-2",
-    title: "Tips Mengatur Keuangan untuk Keluarga Muda",
+    id: "50-30-20-metode-budgeting-untuk-pengelolaan-keuangan",
+    title: "50/30/20: Metode Budgeting untuk Pengelolaan Keuangan",
     category: "Budgeting",
     image:
-      "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-    date: "14 Maret 2024",
-    excerpt:
-      "Strategi mengatur keuangan untuk keluarga muda yang baru memulai perjalanan finansial mereka.",
+      "https://images.unsplash.com/photo-1622186477895-f2af6a0f5a97?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    date: "15 Juni 2025",
+    excerpt: "Bagaimana teknologi telah mengubah cara kita mengelola keuangan",
   },
   {
-    id: "budgeting-3",
-    title: "Metode 50/30/20: Cara Sederhana Mengatur Anggaran",
+    id: "budgeting-untuk-keluarga-muda-membangun-stabilitas-finansial-dari-awal",
+    title:
+      "Budgeting untuk Keluarga Muda: Membangun Stabilitas Finansial dari Awal",
     category: "Budgeting",
     image:
-      "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-    date: "13 Maret 2024",
-    excerpt:
-      "Kenali metode 50/30/20 untuk mengatur anggaran dengan lebih efektif dan seimbang.",
+      "https://plus.unsplash.com/premium_photo-1691872437533-e35b3d1f7cbe?q=80&w=2187&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    date: "15 Juni 2025",
+    excerpt: "Rencana Anggaran Bulanan Keluarga Muda",
   },
 ];
 
